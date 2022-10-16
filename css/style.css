@@ -196,6 +196,7 @@ nav {
   color: #9998A4;
   width: 590px;
   text-align: center;
+  margin: 0 auto;
 }
 
 .main__text-btn {
@@ -905,6 +906,7 @@ footer {
     padding: 50px 0 10px;
     font-size: 24px;
     text-align: center;
+    margin: 0 auto;
   }
 
   .main__text-text {
