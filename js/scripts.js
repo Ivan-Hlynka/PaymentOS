@@ -41,4 +41,5 @@ function fixedNav() {
   }
 }
 window.addEventListener('scroll', fixedNav)
+;
 
