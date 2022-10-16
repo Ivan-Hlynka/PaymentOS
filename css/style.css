@@ -854,11 +854,13 @@ footer {
   }
 
   .menu__item {
-    margin-top: 15px;
+    margin-top: 20px;
   }
 
   .menu__item-link {
     color: white;
+    font-size: 36px;
+    line-height: 40px;
   }
 
   .menu__item-link .menu__item-img {
@@ -879,6 +881,10 @@ footer {
 
   .active .menu__item-link {
     color: #fff;
+  }
+
+  .active .menu__item-link:hover {
+    color: #2961efd1;
   }
 }
 
